@@ -128,7 +128,7 @@ width: 100%;
 z-index: 5;
 }
 
-a[href^="Tel"]{
+a[href^="Tel:"]{
     padding-left: 25px;
     background: url(../img/smartphone.png) no-repeat center left;
 }
