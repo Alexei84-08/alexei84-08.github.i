@@ -128,6 +128,11 @@ width: 100%;
 z-index: 5;
 }
 
+a[href^="Tel"]{
+    padding-left: 25px;
+    background: url(../img/smartphone (1).png) no-repeat center left;
+}
+
 a[href^="cv.html"],a[href^="../en/cv_en.html"]{
     padding-left: 20px;
     background: url(../img/html.png) no-repeat center left;
