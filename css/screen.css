@@ -54,7 +54,7 @@ a[href^="http://stackoverflow.com"] {
 }
 
 a[href^="https://github.com"] {
-    padding-left: 25px !important;
+    padding-left: 30px !important;
     background: url(../img/github.png) no-repeat center left;
 }
 /* Header
@@ -129,7 +129,7 @@ z-index: 5;
 }
 
 a[href^="Tel:"]{
-    padding-left: 25px;
+    padding-left: 30px;
     background: url(../img/smartphone.png) no-repeat center left;
 }
 
@@ -139,7 +139,7 @@ a[href^="cv.html"],a[href^="../en/cv_en.html"]{
 }
 
 a[href^="mailto:"]{
-    padding-left: 25px;
+    padding-left: 30px;
     background: url(https://img-fotki.yandex.ru/get/9118/5091629.99/0_7d7e3_8e722d08_S.png) no-repeat center left;
 }
 
