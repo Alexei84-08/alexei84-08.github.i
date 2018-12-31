@@ -41,7 +41,7 @@
 .note { margin-left: 15px; background-color: rgb(255, 255, 225)
 }
 
-li{ margin-bottom: 6px}
+li{ margin-bottom: 15px}
 
 a[href^="http://habrahabr.ru"] {
     padding-left: 20px !important;
