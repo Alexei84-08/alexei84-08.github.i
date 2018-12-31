@@ -43,7 +43,7 @@ a { color: #009; text-decoration: none; color: #ffcc00; }
 a:hover { text-decoration: underline; }
 
 blockquote { margin: 1.5em; }
-strong { font-weight: bold; }
+strong { font-weight: bold; color: #8abeec; }
 em, dfn { font-style: italic; }
 dfn { font-weight: bold; }
 pre, code { margin: 1.5em 0; white-space: pre; }
